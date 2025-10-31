@@ -1,5 +1,4 @@
-pandas
-panel
-bokeh
-holoviews
-param
+panel>=1.3.0
+pandas>=1.5.0
+tabulator
+
